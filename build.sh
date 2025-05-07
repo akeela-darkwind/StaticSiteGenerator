@@ -1,1 +1,1 @@
-python3 src/main.py "/akeela-darkwind/"
+python3 src/main.py "/StaticSiteGenerator/"
